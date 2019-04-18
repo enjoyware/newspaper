@@ -23,4 +23,18 @@ cite {
   margin-top: 20px;
 }
 
+#wrapper {
+    width: 60em;
+    margin: 0 auto;
+    clear: both;
+}
+
+
 /*# sourceMappingURL=main.css.map */
+
+/*  Type  */
+
+p {
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5em;
+}
